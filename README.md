@@ -13,13 +13,11 @@ Yeah, I mean, like this:
   <img src="./assets/ex1.png" alt="ex1" title="ex1" style="display: inline-block; margin-right: 10px; width: 350px; height: 350px;" />
   <img src="./assets/ex1_imageified" alt="ex1_imageified" title="ex1_imageified" style="display: inline-block; width: 350px; height: 350px;" />,
 </p>
-along with <a href="https://github.com/agarnung/asciimage/blob/main/assets/circle_ascii.txt" target="_blank">its .txt colleague.</a>
 <br></br>
 <p align="center">
   <img src="./assets/ex2.png" alt="ex2" title="ex2" style="display: inline-block; margin-right: 10px; width: 350px; height: 350px;" />
   <img src="./assets/ex2_imageified" alt="ex2_imageified" title="ex2_imageified" style="display: inline-block; width: 350px; height: 350px;" />,
 </p>
-along with <a href="https://github.com/agarnung/asciimage/blob/main/assets/lena_ascii.txt" target="_blank">its .txt colleague.</a>
 
 ---
 
