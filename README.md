@@ -7,8 +7,6 @@ A Python program that converts images into image representations.
 
 Yeah, I mean, like this:
 
-# Demo
-
 <p align="center">
   <img src="./assets/ex1.png" alt="ex1" title="ex1" style="display: inline-block; margin-right: 10px; width: 350px; height: 350px;" />
   <img src="./assets/ex1_imageified" alt="ex1_imageified" title="ex1_imageified" style="display: inline-block; width: 350px; height: 350px;" />,
