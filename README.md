@@ -2,7 +2,8 @@
 
 A Python program that converts images into image representations.
 
-> [!NOTE] What?
+> [!WARNING]
+> What?
 
 Yeah, I mean, like this:
 
