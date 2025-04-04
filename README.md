@@ -19,7 +19,7 @@ Yeah, I mean, like this:
 
 ---
 
-### Example of usage:
+# Example of usage:
 
 Clone the project:
 ```bash
@@ -31,6 +31,9 @@ Install required dependencies (it is recommended tu use a virtual environment):
 python3 -m pip install -r requirements.txt
 ```
 
+> ![NOTE]
+> Requirements generated with `pipreqs . --force`
+
 Run the program in the root folder, e.g.:
 ```bash
 python3 imageimage.py --file /home/alejandro/Pictures/lena.png --inputs ./image_database --out ./results 
@@ -38,30 +41,12 @@ python3 imageimage.py --file /home/alejandro/Pictures/lena.png --inputs ./image_
 
 Please refer to the program help:
 ```bash
-python3 asciimage.py --help
+python3 imageimage.py --help
 ```
 
 ---
 
-### References:
+# References:
 
-- [GeeksforGeeks: Converting Image to ASCII Image in Python](https://www.geeksforgeeks.org/converting-image-ascii-image-python/)
-- [ASCII Art Generator](https://dahtah.github.io/imager/ascii_art.html)
-- [GitHub: Image to ASCII by ajratnam](https://github.com/ajratnam/image-to-ascii)
-
----
-
-### Other consulted links:
-
-- [Python aalib (kaiju)](https://github.com/kaiju/python-aalib/tree/master)
-- [Python aalib (jwilk)](https://github.com/jwilk/python-aalib)
-
----
-
-### TODO:
-
-- Improve the resolution of the image formed from the text, with `scale=1`.
-- If an `int` argument is at the last of the command, EOF may corrupt the arg parsing. Protect this.
-- Add color to letters in order to convert RGB images.
 - Inspired by [this](https://susanqq.github.io/UTKFace/icon/logoWall2.jpg) and [this](https://github.com/agarnung/asciimage/tree/main).
 
