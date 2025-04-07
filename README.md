@@ -45,7 +45,7 @@ python3 -m pip install -r requirements.txt
 
 Run the program in the root folder, e.g.:
 ```bash
-python3 imageimage.py --file /home/alejandro/Pictures/lena.png --inputs ./image_database --out ./results 
+python3 imageimage.py --file /opt/imageimage/assets/camera.tif --inputs /opt/imageimage/image_database/ --cols 25 --rows 25 --color_weight 1.0 --gradient_weight 0.1
 ```
 
 Please refer to the program help:
