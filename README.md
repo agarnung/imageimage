@@ -13,15 +13,15 @@ Yeah, I mean, mosaics, like this:
     <th>Mosaic</th>
   </tr>
   <tr>
-    <td><img src="assets/camera.tif" alt="camera_imageified" title="camera_imageified" style="width: 350px; height: 350px;" /></td>
+    <td><img src="assets/camera.tif" alt="camera.tif" title="camera.tif" style="width: 350px; height: 350px;" /></td>
     <td><img src="assets/camera_imageified.jpg" alt="camera_imageified" title="camera_imageified" style="width: 350px; height: 350px;" /></td>
   </tr>
   <tr>
-    <td><img src="assets/baboon_imageified.jpg" alt="baboon_imageified" title="baboon_imageified" style="width: 350px; height: 350px;" /></td>
+    <td><img src="assets/baboon.ppm" alt="baboon.ppm" title="baboon.ppm" style="width: 350px; height: 350px;" /></td>
     <td><img src="assets/baboon_imageified.jpg" alt="baboon_imageified" title="baboon_imageified" style="width: 350px; height: 350px;" /></td>
   </tr>
   <tr>
-    <td><img src="assets/flor_imageified.jpg" alt="flor_imageified" title="flor_imageified" style="width: 350px; height: 350px;" /></td>
+    <td><img src="assets/flor.png" alt="flor.png" title="flor.png" style="width: 350px; height: 350px;" /></td>
     <td><img src="assets/flor_imageified.jpg" alt="flor_imageified" title="flor_imageified" style="width: 350px; height: 350px;" /></td>
   </tr>
 </table>
