@@ -57,5 +57,5 @@ python3 imageimage.py --help
 
 # References:
 
-- Inspired by [this](https://susanqq.github.io/UTKFace/icon/logoWall2.jpg) and [this](https://github.com/agarnung/asciimage/tree/main).
+- Inspired by [UTKFace](https://susanqq.github.io/UTKFace/icon/logoWall2.jpg) and [asciimage](https://github.com/agarnung/asciimage/tree/main).
 
