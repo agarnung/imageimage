@@ -40,7 +40,7 @@ Install required dependencies (it is recommended tu use a virtual environment):
 python3 -m pip install -r requirements.txt
 ```
 
-> ![NOTE]
+> [!NOTE]
 > Requirements generated with `pipreqs . --force`
 
 Run the program in the root folder, e.g.:
@@ -57,5 +57,5 @@ python3 imageimage.py --help
 
 # References:
 
-- Inspired by [this](https://susanqq.github.io/UTKFace/icon/logoWall2.jpg) and [this](https://github.com/agarnung/asciimage/tree/main).
+- Inspired by [UTKFace](https://susanqq.github.io/UTKFace/icon/logoWall2.jpg) and [asciimage](https://github.com/agarnung/asciimage/tree/main).
 
