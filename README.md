@@ -5,17 +5,26 @@ A Python program that converts images into image representations.
 > [!WARNING]
 > What?
 
-Yeah, I mean, like this:
+Yeah, I mean, mosaics, like this:
 
-<p align="center">
-  <img src="./assets/ex1.png" alt="ex1" title="ex1" style="display: inline-block; margin-right: 10px; width: 350px; height: 350px;" />
-  <img src="./assets/ex1_imageified" alt="ex1_imageified" title="ex1_imageified" style="display: inline-block; width: 350px; height: 350px;" />
-</p>
-<br></br>
-<p align="center">
-  <img src="./assets/ex2.png" alt="ex2" title="ex2" style="display: inline-block; margin-right: 10px; width: 350px; height: 350px;" />
-  <img src="./assets/ex2_imageified" alt="ex2_imageified" title="ex2_imageified" style="display: inline-block; width: 350px; height: 350px;" />
-</p>
+<table border="1" align="center">
+  <tr>
+    <th>Original image</th>
+    <th>Mosaic</th>
+  </tr>
+  <tr>
+    <td><img src="./camera_imageified.jpg" alt="camera_imageified" title="camera_imageified" style="width: 350px; height: 350px;" /></td>
+    <td><img src="./camera_imageified.jpg" alt="camera_imageified" title="camera_imageified" style="width: 350px; height: 350px;" /></td>
+  </tr>
+  <tr>
+    <td><img src="./baboon_imageified.jpg" alt="baboon_imageified" title="baboon_imageified" style="width: 350px; height: 350px;" /></td>
+    <td><img src="./baboon_imageified.jpg" alt="baboon_imageified" title="baboon_imageified" style="width: 350px; height: 350px;" /></td>
+  </tr>
+  <tr>
+    <td><img src="./flor_imageified.jpg" alt="flor_imageified" title="flor_imageified" style="width: 350px; height: 350px;" /></td>
+    <td><img src="./flor_imageified.jpg" alt="flor_imageified" title="flor_imageified" style="width: 350px; height: 350px;" /></td>
+  </tr>
+</table>
 
 ---
 
