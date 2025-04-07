@@ -12,14 +12,7 @@ Yeah, I mean, mosaics, like this:
     <th>Original image</th>
     <th>Mosaic</th>
   </tr>
-  <tr>
-    <td><img src="assets/camera.png" alt="camera.png" title="camera.png" style="width: 350px; height: 350px;" /></td>
-    <td><img src="assets/camera_imageified.jpg" alt="camera_imageified" title="camera_imageified" style="width: 350px; height: 350px;" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/baboon.png" alt="baboon.png" title="baboon.png" style="width: 350px; height: 350px;" /></td>
-    <td><img src="assets/baboon_imageified.jpg" alt="baboon_imageified" title="baboon_imageified" style="width: 350px; height: 350px;" /></td>
-  </tr>
+
   <tr>
     <td><img src="assets/flor.png" alt="flor.png" title="flor.png" style="width: 350px; height: 350px;" /></td>
     <td><img src="assets/flor_imageified.jpg" alt="flor_imageified" title="flor_imageified" style="width: 350px; height: 350px;" /></td>
