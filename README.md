@@ -40,7 +40,7 @@ Install required dependencies (it is recommended tu use a virtual environment):
 python3 -m pip install -r requirements.txt
 ```
 
-> ![NOTE]
+> [!NOTE]
 > Requirements generated with `pipreqs . --force`
 
 Run the program in the root folder, e.g.:
