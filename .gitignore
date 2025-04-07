@@ -1,2 +1,4 @@
 image_database/*
 results/*
+!image_database/foo_your_input_images
+!results/foo_your_results
