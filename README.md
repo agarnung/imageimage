@@ -13,7 +13,7 @@ Yeah, I mean, mosaics, like this:
     <th>Mosaic</th>
   </tr>
   <tr>
-    <td><img src="assets/camera_imageified.jpg" alt="camera_imageified" title="camera_imageified" style="width: 350px; height: 350px;" /></td>
+    <td><img src="assets/camera.tif" alt="camera_imageified" title="camera_imageified" style="width: 350px; height: 350px;" /></td>
     <td><img src="assets/camera_imageified.jpg" alt="camera_imageified" title="camera_imageified" style="width: 350px; height: 350px;" /></td>
   </tr>
   <tr>
