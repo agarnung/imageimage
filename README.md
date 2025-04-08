@@ -59,3 +59,6 @@ python3 imageimage.py --help
 
 - Inspired by [UTKFace](https://susanqq.github.io/UTKFace/icon/logoWall2.jpg) and [asciimage](https://github.com/agarnung/asciimage/tree/main).
 
+# TODO
+
+- Añadir un máximo número de veces que se puede usar cada imagen del mosaico, para potenciar la heterogeneidad.
